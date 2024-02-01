@@ -1,1 +1,8 @@
 This repository was made to showcase project done by me and highlight my skills
+
+The project was to make a static website live through AWS Services
+--S3 was used to host the files of the website
+--Acess was configured through IAM
+--Cloud Front was used to distribute the website
+
+The project was a part of my program at Udacity cloud devops training during my internship at GOT IT solutions GmBH
