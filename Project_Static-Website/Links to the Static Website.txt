@@ -1,0 +1,5 @@
+Links to the Static Website
+
+1-- http://my-395608833341-bucket.s3-website-us-east-1.amazonaws.com/	
+2-- https://dme880ghwyyhl.cloudfront.net/
+3-- http://my-395608833341-bucket.s3-website-us-east-1.amazonaws.com/
